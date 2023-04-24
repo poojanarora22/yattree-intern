@@ -1,0 +1,8 @@
+{
+  "name": "Yaatrees",
+  "displayName": "Yaatrees",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-6695702439913809~6446786367",
+    "ios_app_id": "ca-app-pub-6695702439913809~4586909786"
+  }
+}

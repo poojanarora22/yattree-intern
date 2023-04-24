@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="candle-2" transform="translate(-428 -252)">
+    <path id="Vector" d="M7,0H0" transform="translate(443 269.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-2" data-name="Vector" d="M3,0H0" transform="translate(430 269.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-3" data-name="Vector" d="M3,0H0" transform="translate(447 258.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-4" data-name="Vector" d="M7,0H0" transform="translate(430 258.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-5" data-name="Vector" d="M2,0H8a1.79,1.79,0,0,1,2,2V4A1.79,1.79,0,0,1,8,6H2A1.79,1.79,0,0,1,0,4V2A1.79,1.79,0,0,1,2,0Z" transform="translate(433 266.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-6" data-name="Vector" d="M2,0H8a1.79,1.79,0,0,1,2,2V4A1.79,1.79,0,0,1,8,6H2A1.79,1.79,0,0,1,0,4V2A1.79,1.79,0,0,1,2,0Z" transform="translate(437 255.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-7" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(428 252)" fill="none" opacity="0"/>
+  </g>
+</svg>

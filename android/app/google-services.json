@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1065357527571",
+    "project_id": "yaatrees",
+    "storage_bucket": "yaatrees.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065357527571:android:12f7a8145721471e3a0de6",
+        "android_client_info": {
+          "package_name": "com.yaatrees"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065357527571-s8ns7scevkll294qplf00mf0ijteaan8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFhje9otZGZAgCjnswoXnKOA1ActlpenY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065357527571-s8ns7scevkll294qplf00mf0ijteaan8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1065357527571-69d2v0gmeagnvmrfedp6as0v0conbmb6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yaatrees",
+                "app_store_id": "1663717856"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
