@@ -34,7 +34,8 @@ const URL = {
   DELETE_ACCOUNT: 'auth/me',
   GET_FORUM_LIST: 'forum/query',
   ADD_FORUM: 'forum',
-  GET_FORUM_DETAILS: 'forum/',
+  GET_FORUM_DETAILS: 'forum/',xiosConfig.headers = {
+    ...axiosConfig.headers,
   DELETE_FORUM: 'forum/',
   GET_USER_LOCATION: 'user/location',
   ADD_COMMENT: 'comment',
